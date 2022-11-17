@@ -1,2 +1,6 @@
 # Portfolio
-This is my portfolio
+This is a list of my portfolios.
+
+## Online CV
+- [x] Name
+- [ ] Address
