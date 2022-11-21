@@ -7,8 +7,8 @@ This is a list of my portfolios.
 - [x] Email
 - [x] Number
 - [x] About Me
-- [ ] Projects
-- [ ] Technical Skills
-- [ ] Volunteer Experience - Website Team Member JFCM NZ
-- [ ] Achievements
-- [ ] Interest
+- [x] Projects
+- [x] Technical Skills
+- [x] Volunteer Experience - Website Team Member JFCM NZ
+- [x] Achievements
+- [x] Interest
