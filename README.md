@@ -3,10 +3,10 @@ This is a list of my portfolios.
 
 ## Online CV
 - [x] Name
-- [ ] Address
-- [ ] Email
-- [ ] Number
-- [ ] About Me
+- [x] Address
+- [x] Email
+- [x] Number
+- [x] About Me
 - [ ] Projects
 - [ ] Technical Skills
 - [ ] Volunteer Experience - Website Team Member JFCM NZ
